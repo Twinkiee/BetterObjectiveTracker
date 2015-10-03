@@ -1,7 +1,0 @@
-<Addon Name="MovableObjectiveTracker" Version="" Author="Twinkie" APIVersion="11" Description="">
-    <Script Name="MovableObjectiveTracker.lua"/>
-    <Script Name="Navpoints.lua"/>
-    <Form Name="MovableObjectiveTracker.xml"/>
-    <Form Name="Navpoints.xml"/>
-    <ReplaceAddon Name="ObjectiveTracker"/>
-</Addon>

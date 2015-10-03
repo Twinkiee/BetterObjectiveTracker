@@ -1,0 +1,7 @@
+<Addon Name="FixObjectiveTracker" Version="" Author="Twinkie" APIVersion="11" Description="">
+    <Script Name="FixObjectiveTracker.lua"/>
+    <Script Name="Navpoints.lua"/>
+    <Form Name="FixObjectiveTracker.xml"/>
+    <Form Name="Navpoints.xml"/>
+    <ReplaceAddon Name="ObjectiveTracker"/>
+</Addon>
